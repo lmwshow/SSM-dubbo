@@ -13,3 +13,4 @@
 0:0:0:0:0:0:0:1 - - [19/Apr/2018:20:57:09 +0800] "GET /content/category/list HTTP/1.1" 200 61 http-bio-8081-exec-2 8
 0:0:0:0:0:0:0:1 - - [19/Apr/2018:20:57:11 +0800] "GET /content/category/list?id=30 HTTP/1.1" 200 108 http-bio-8081-exec-2 5
 0:0:0:0:0:0:0:1 - - [19/Apr/2018:20:57:12 +0800] "GET /content/category/list?id=31 HTTP/1.1" 200 196 http-bio-8081-exec-2 7
+0:0:0:0:0:0:0:1 - - [19/Apr/2018:20:57:15 +0800] "GET /content/category/list?id=38 HTTP/1.1" 200 54 http-bio-8081-exec-2 7

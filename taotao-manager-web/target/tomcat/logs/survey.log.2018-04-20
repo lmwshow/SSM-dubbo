@@ -1,0 +1,4 @@
+[WARN ] 2018-04-20 10:05:19 org.springframework.web.servlet.DispatcherServlet@(DispatcherServlet.java:1136):No mapping found for HTTP request with URI [/rest/itemcat/all] in DispatcherServlet with name 'taotao-manager-web'
+     [WARN ] 2018-04-20 10:08:04 org.springframework.web.servlet.DispatcherServlet@(DispatcherServlet.java:1136):No mapping found for HTTP request with URI [/rest/itemcat/all] in DispatcherServlet with name 'taotao-manager-web'
+     [WARN ] 2018-04-20 19:56:47 org.springframework.web.servlet.DispatcherServlet@(DispatcherServlet.java:1136):No mapping found for HTTP request with URI [/rest/itemcat/all] in DispatcherServlet with name 'taotao-manager-web'
+     

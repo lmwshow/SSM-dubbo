@@ -1,0 +1,8 @@
+[WARN ] 2018-04-24 14:04:42 org.apache.zookeeper.ClientCnxn$SendThread@(ClientCnxn.java:1108):Client session timed out, have not heard from server in 20001ms for sessionid 0x162b283c17b002c
+     [INFO ] 2018-04-24 14:04:42 org.apache.zookeeper.ClientCnxn$SendThread@(ClientCnxn.java:1156):Client session timed out, have not heard from server in 20001ms for sessionid 0x162b283c17b002c, closing socket connection and attempting reconnect
+     [INFO ] 2018-04-24 14:04:42 org.I0Itec.zkclient.ZkClient@(ZkClient.java:449):zookeeper state changed (Disconnected)
+     [INFO ] 2018-04-24 14:04:43 org.apache.zookeeper.ClientCnxn$SendThread@(ClientCnxn.java:1032):Opening socket connection to server 10.65.1.16/10.65.1.16:2181. Will not attempt to authenticate using SASL (unknown error)
+     [INFO ] 2018-04-24 14:04:52 org.apache.zookeeper.ClientCnxn$SendThread@(ClientCnxn.java:876):Socket connection established to 10.65.1.16/10.65.1.16:2181, initiating session
+     [INFO ] 2018-04-24 14:04:52 org.apache.zookeeper.ClientCnxn$SendThread@(ClientCnxn.java:1299):Session establishment complete on server 10.65.1.16/10.65.1.16:2181, sessionid = 0x162b283c17b002c, negotiated timeout = 30000
+     [INFO ] 2018-04-24 14:04:52 org.I0Itec.zkclient.ZkClient@(ZkClient.java:449):zookeeper state changed (SyncConnected)
+     
